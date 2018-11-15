@@ -1,7 +1,7 @@
 #include <EEPROM.h>
 #include "FiniteStateMachine.h"
 
-#define RELAY_PIN 11
+#define RELAY_PIN 12
 #define LED_PIN 13
 #define EEPROM_TIMEOUT_ADDRESS 0
 
